@@ -1,0 +1,12 @@
+1 create table
+2 insert user - ezt kell először mert ő a parent
+3 insert endpoints
+4 jöhetnek a queryk - query user kell nekem
+
+v1 : új tábla a vezérelt rpi-nek    
+
+
+v2:
+group tábla
+user tábla
+rpi tábla
